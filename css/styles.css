@@ -1,0 +1,46 @@
+
+
+.row {
+  text-align: center;
+  background: url(../img/flag.jpeg) no-repeat center;
+  border: 4px solid black;
+  padding: 4px;
+  margin: 6px;
+}
+
+.row ul {
+  list-style-type: none;
+  padding: 0px;
+  color: white;
+}
+
+.row p {
+  padding: 0px;
+  text-align: center;
+  color: white;
+}
+
+.col-md-3 {
+
+}
+
+.col-md-6 {
+
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url(../img/city.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  text-align: center;
+}
+
+.bg-default {
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(229, 134, 32, 0.5);
+}
